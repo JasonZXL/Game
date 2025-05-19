@@ -12,8 +12,8 @@ TagManager:
   - Water
   - UI
   - ground
-  - 
-  - 
+  - PressurePlate
+  - Player
   - 
   - 
   - 
@@ -40,6 +40,12 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 2535965925
+    locked: 0
+  - name: PressurePlate
+    uniqueID: 3769851125
     locked: 0
   m_RenderingLayers:
   - Default
